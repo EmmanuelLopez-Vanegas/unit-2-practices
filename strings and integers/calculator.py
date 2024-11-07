@@ -1,0 +1,5 @@
+a = input('Choose a number you would like to add ')
+b = input('Choose a number you would like to add to '+a+' + ')
+aa = int(a)
+bb = int(b)
+print(aa+bb)
